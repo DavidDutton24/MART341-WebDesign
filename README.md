@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# David Dutton MART341-WebDesign
 Intro to web design homework repository

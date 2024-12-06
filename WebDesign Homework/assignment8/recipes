@@ -1,0 +1,84 @@
+<nav>
+    <a href="index.html">HOME</a> |
+    <a href="recipes.html">RECIPES</a>
+</nav>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cooking Website - Recipes</title>
+    <style>
+        body {
+            background-color: #fdf5e6; /* Light beige for warmth */
+            font-family: 'Arial', sans-serif;
+            line-height: 1.5;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4a460; /* Sandy brown for a cooking vibe */
+            color: white;
+        }
+        img {
+            width: 150px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="index.html">HOME</a> |
+            <a href="recipes.html">RECIPES</a>
+        </nav>
+        <h1>Recipe Comparisons</h1>
+        <p>Check out some of the most popular recipes and their key features below.</p>
+        <table>
+            <tr>
+                <th>Recipe</th>
+                <th>Difficulty</th>
+                <th>Time Required</th>
+                <th>Key Ingredients</th>
+            </tr>
+            <tr>
+                <td><img src="spaghetti.jpg" alt="Spaghetti" title="Classic Spaghetti Carbonara"> Spaghetti Carbonara</td>
+                <td>Medium</td>
+                <td>30 minutes</td>
+                <td>Eggs, Parmesan, Bacon</td>
+            </tr>
+            <tr>
+                <td><img src="lemon_chicken.jpg" alt="Lemon Chicken" title="Grilled Lemon Chicken"> Grilled Lemon Chicken</td>
+                <td>Easy</td>
+                <td>20 minutes</td>
+                <td>Chicken, Lemon, Herbs</td>
+            </tr>
+        </table>
+        
+        <h2>Suggestions?</h2>
+        <form action="mailto:youremail@example.com?subject=Recipe%20Suggestions" method="post" enctype="text/plain" id="recipe-form" class="feedback-form">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name"><br><br>
+            
+            <label for="suggestions">Your Recipe Ideas:</label><br>
+            <textarea id="suggestions" name="suggestions" rows="5" cols="40"></textarea><br><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>

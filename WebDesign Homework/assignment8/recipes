@@ -1,84 +1,44 @@
-<nav>
-    <a href="index.html">HOME</a> |
-    <a href="recipes.html">RECIPES</a>
-</nav>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cooking Website - Recipes</title>
+    <title>Recipes</title>
     <style>
         body {
-            background-color: #fdf5e6; /* Light beige for warmth */
-            font-family: 'Arial', sans-serif;
-            line-height: 1.5;
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
         }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-        th, td {
+        .recipe {
+            margin: 20px;
             padding: 10px;
-            text-align: left;
+            border: 1px solid #ddd;
+            background-color: #fff;
         }
-        th {
-            background-color: #f4a460; /* Sandy brown for a cooking vibe */
-            color: white;
-        }
-        img {
-            width: 150px;
-            height: auto;
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <nav>
-            <a href="index.html">HOME</a> |
-            <a href="recipes.html">RECIPES</a>
-        </nav>
-        <h1>Recipe Comparisons</h1>
-        <p>Check out some of the most popular recipes and their key features below.</p>
-        <table>
-            <tr>
-                <th>Recipe</th>
-                <th>Difficulty</th>
-                <th>Time Required</th>
-                <th>Key Ingredients</th>
-            </tr>
-            <tr>
-                <td><img src="spaghetti.jpg" alt="Spaghetti" title="Classic Spaghetti Carbonara"> Spaghetti Carbonara</td>
-                <td>Medium</td>
-                <td>30 minutes</td>
-                <td>Eggs, Parmesan, Bacon</td>
-            </tr>
-            <tr>
-                <td><img src="lemon_chicken.jpg" alt="Lemon Chicken" title="Grilled Lemon Chicken"> Grilled Lemon Chicken</td>
-                <td>Easy</td>
-                <td>20 minutes</td>
-                <td>Chicken, Lemon, Herbs</td>
-            </tr>
-        </table>
-        
-        <h2>Suggestions?</h2>
-        <form action="mailto:youremail@example.com?subject=Recipe%20Suggestions" method="post" enctype="text/plain" id="recipe-form" class="feedback-form">
-            <label for="name">Your Name:</label>
-            <input type="text" id="name" name="name"><br><br>
-            
-            <label for="suggestions">Your Recipe Ideas:</label><br>
-            <textarea id="suggestions" name="suggestions" rows="5" cols="40"></textarea><br><br>
-            
-            <input type="submit" value="Submit">
-        </form>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="media.html">Media</a>
+    </nav>
+    <div class="recipe">
+        <h2>Classic Spaghetti Carbonara</h2>
+        <p>A delicious Italian pasta recipe!</p>
+        <audio controls>
+            <source src="audio/recipe-intro.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <video controls width="600">
+            <source src="video/cooking-tutorial.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <p>This recipe is <span class="highlight">easy to make</span> and <span class="highlight">absolutely delicious</span>.</p>
     </div>
 </body>
 </html>

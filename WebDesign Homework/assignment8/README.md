@@ -1,3 +1,8 @@
+<nav>
+    <a href="index.html">Home</a>
+    <a href="recipes.html">Recipes</a>
+    <a href="media.html">Media</a>
+</nav>
 # Techniques Used in Assignment 8
 
 - **Div:** I used `<div>` elements to group each recipe, keeping the content organized for styling and structure.

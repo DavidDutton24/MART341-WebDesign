@@ -18,7 +18,7 @@ Here are links to each of my assignments:
 - [WebDesign Homework/Assignment 7: Working with APIs](WebDesign%20Homework/Assignment7)
 - [WebDesign Homework/Assignment 8: DOM Manipulation](WebDesign%20Homework/Assignment8)
 - [WebDesign Homework/Assignment 9: Creating Interactive Features](WebDesign%20Homework/Assignment9)
-- [WebDesign Homework/Assignment 10: Website Optimization](WebDesign%20Homework/Assignment10)
+- [WebDesign Homework/Assignment 10: Website Optimization](<a href="https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment10">Assignment 10: Website Optimization</a>)
 
 Each assignment has its own directory with the files required for completion. You can explore the specific challenges and solutions from each project.
 

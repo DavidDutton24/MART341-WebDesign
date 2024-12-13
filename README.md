@@ -23,8 +23,7 @@ Here are links to each of my assignments, from assignment 2 through assignment 1
 Each assignment has its own directory with the files required for completion. You can explore the specific challenges and solutions from each project.
 
 ## Final Project
-
-- [Final Project](WebDesign%20Homework/final_project)  
+[WebDesign Homework/Final Project](WebDesign%20Homework/Final%20Project)  - 
 The final project combines all the knowledge and skills learned in the course to create a fully functional web application. 
 
 ## Contact

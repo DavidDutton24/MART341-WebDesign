@@ -1,23 +1,35 @@
-# Assignment 9: Instructable Site
+# Assignment 9: How-to Guide - Cooking Recipes
 
-## Project Overview:
-This website will showcase a simple how-to guide or instructable that demonstrates a useful process or skill. The site will consist of three main pages: 
-- **Instructable Page**: A step-by-step guide on how to do something (e.g., cooking recipe, DIY project, etc.).
-- **About Page**: Information about the creator or purpose of the website.
-- **Contact Page**: A page where users can reach out.
+## Instructable: How to Make Homemade Pizza from Scratch
+
+This website is dedicated to teaching users how to make a delicious homemade pizza, step by step. The guide will include images, videos, and helpful tips along the way.
 
 ## Pages:
-- **Instructable**: This page will contain detailed steps, images, and possibly video for an easy-to-follow guide.
-- **About**: The About page will explain the purpose of the site and the creator’s background.
-- **Contact**: A contact form for users to submit inquiries or feedback.
+- **Home Page (index.html)**: The main landing page introducing the cooking recipe with basic instructions and a link to the full guide.
+- **How-To Guide (recipe.html)**: A step-by-step guide for making pizza, including instructions, images, and a video demonstration.
+- **Gallery (gallery.html)**: A collection of photos showcasing the pizza-making process and final product.
 
-## Tips for Building the Site:
-- Use clear and concise instructions with headings and bullet points for easy navigation.
-- Use images and videos to complement the instructions.
-- Organize your content with semantic HTML and structure your page well for accessibility.
+## Materials and Ingredients:
+- Flour, yeast, water, olive oil, tomatoes, cheese, toppings of choice
+- Baking tools: Rolling pin, oven, pizza stone
 
-## Techniques to Include:
-- Three or more pages with clear navigation.
-- Inline and embedded CSS for styling.
-- At least one embedded media file (video, audio, Google Maps, etc.).
-- Images (either personal or sourced from fair-use platforms).
+## Steps:
+1. Prepare the dough.
+2. Let the dough rise.
+3. Roll out the dough and add toppings.
+4. Bake the pizza.
+5. Enjoy!
+
+## Tips:
+- Be patient with the dough rising process—it makes the pizza fluffier!
+- Experiment with different toppings to find your favorite combination.
+- Ensure your oven is preheated to 475°F for the best crisp.
+
+## Required Techniques:
+- **Structural Markup**: The website will use proper headings, paragraphs, and lists to organize content.
+- **Embedded Media**: Videos will be embedded to demonstrate the steps visually.
+- **Images**: Fair-use images will be included to highlight the process and final product.
+- **CSS**: Both inline and embedded styles will be applied for consistent layout and design.
+
+---
+

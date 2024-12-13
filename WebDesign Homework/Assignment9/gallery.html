@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pizza recipe gallery showcasing the cooking process and finished pizza.">
+    <title>Pizza Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            max-width: 400px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pizza Making Gallery</h1>
+        </header>
+
+        <section class="gallery">
+            <img src="images/pizza-steps.jpg" alt="Steps of making pizza">
+            <img src="images/final-pizza.jpg" alt="Finished homemade pizza">
+        </section>
+
+        <footer>
+            <p><a href="index.html">Back to Home</a> | <a href="recipe.html">See Recipe</a></p>
+        </footer>
+    </div>
+</body>
+</html>

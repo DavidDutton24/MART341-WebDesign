@@ -21,14 +21,14 @@ Welcome to my **Homework Repository**! This is a collection of my assignments, p
     <h2>Assignments</h2>
     <ul>
         <li><a href="WebDesign Homework/Assignment2/" target="_blank">Assignment 2</a></li>
-        <li><a href="assignments/assignment3/" target="_blank">Assignment 3</a></li>
-        <li><a href="assignments/assignment4/" target="_blank">Assignment 4</a></li>
-        <li><a href="assignments/assignment5/" target="_blank">Assignment 5</a></li>
-        <li><a href="assignments/assignment6/" target="_blank">Assignment 6</a></li>
-        <li><a href="assignments/assignment7/" target="_blank">Assignment 7</a></li>
-        <li><a href="assignments/assignment8/" target="_blank">Assignment 8</a></li>
-        <li><a href="assignments/assignment9/" target="_blank">Assignment 9</a></li>
-        <li><a href="assignments/assignment10/" target="_blank">Assignment 10</a></li>
-        <li><a href="assignments/final_project/" target="_blank">Final Project</a></li>
+        <li><a href="WebDesign Homework/Assignment3/" target="_blank">Assignment 3</a></li>
+        <li><a href="WebDesign Homework/Assignment4/" target="_blank">Assignment 4</a></li>
+        <li><a href="WebDesign Homework/Assignment5/" target="_blank">Assignment 5</a></li>
+        <li><a href="WebDesign Homework/Assignment6/" target="_blank">Assignment 6</a></li>
+        <li><a href="WebDesign Homework/assignment7/" target="_blank">Assignment 7</a></li>
+        <li><a href="WebDesign Homework/assignment8/" target="_blank">Assignment 8</a></li>
+        <li><a href="WebDesign Homework/assignment9/" target="_blank">Assignment 9</a></li>
+        <li><a href="WebDesign Homework/assignment10/" target="_blank">Assignment 10</a></li>
+        <li><a href="WebDesign Homework/Final Project/" target="_blank">Final Project</a></li>
     </ul>
 </section>

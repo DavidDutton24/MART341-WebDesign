@@ -1,26 +1,27 @@
-# David Dutton
+# Assignment 2: GitHub Repository Setup
 
-## Assignment 2
+This is my repository for **Assignment 2** of the MART341 Web Design course. In this assignment, I learned how to create a GitHub repository, organize it into folders, and include necessary documentation.
 
-### About This Assignment
-This repository contains the work for **Assignment 2** in the MART341 Web Design course. Below is an overview of the contents and goals of this assignment.
+## Objectives:
+- Create a GitHub repository called `MART341-WebDesign`
+- Set up a folder structure with the path: `WebDesignHomework/Assignment2`
+- Add a `README.md` file with basic documentation
 
-### Contents
-- Folder: **WebDesignHomework**
-  - Subfolder: **Assignment2**
-    - File: `README.md`
+## What I Learned:
+- How to create a GitHub repository and organize files effectively.
+- Basic Markdown syntax to document my assignments.
 
-### Markdown Features Demonstrated
-This README file demonstrates the use of basic Markdown elements:
+## Key Concepts:
+- GitHub Repository Setup
+- Folder Structure
+- Markdown Syntax
 
-- **Bold text**: This text is bold.
-- *Italicized text*: This text is italicized.
-
-### List of Topics Covered
-- How to create repositories in GitHub
-- How to structure folders within a repository
-- How to create a `README.md` file using Markdown
+## Resources:
+- [GitHub Documentation](https://docs.github.com/en/github)
+- [Markdown Guide](https://www.markdownguide.org)
 
 ---
 
-*This is a basic example of how to structure a README file using Markdown formatting.*
+Thank you for reviewing my assignment!
+
+- David Dutton

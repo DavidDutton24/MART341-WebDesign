@@ -1,32 +1,15 @@
-# Assignment 5: GitHub Setup and Website Ideas
+# Assignment 6: Website Development - Cooking Website
 
-In this assignment, I set up my GitHub repository and began brainstorming website ideas for future projects. I also completed a markdown exercise in which I filled in blanks about the tools and services we use in web development.
+## Chosen Website Idea
 
-## Fill in the Blanks
+For this assignment, I have chosen to develop the **Cooking Website** idea that I started last week. This website will feature recipes, cooking tips, and food-related content. The tone will be fun and approachable, with vibrant images and easy-to-follow instructions to make cooking feel accessible for everyone.
 
-Visual Studio Code (or Atom) is the tool we use to **create** and edit our code files and directories.
+## Reflection on Balance Concepts
 
-README.md is a markdown file that uses markdown language to describe the **contents** of a repository.
+This week, I applied the concept of balance by using simple CSS techniques like setting background colors and adjusting the width of elements. These small changes helped create a visually appealing layout that feels organized and well-spaced. 
 
-HTML files are used to create webpages for the web, with the main homepage file always named **index**.html.
+I experimented with the float and margin properties to position images alongside text, and it helped me create a cleaner design. The layout evolved from a simple concept to something more structured with balance in mind.
 
-GitHub Desktop helps us organize files on our computers and **push** them to GitHub.com.
+### Challenges Encountered
 
-GitHub.com is used to **host** our project files.
-
-GitHub Pages **hosts** our websites, and in order to view a specific page, we need to include the entire file path to the URL, including all subdirectories.
-
-Canvas is our virtual **classroom** where we can access the weekly content, discussions, assignments, and quizzes.
-
-The external course website functions as our **textbook**.
-
-## My Website Ideas
-
-In this assignment, I brainstormed three website ideas:
-
-1. **Personal Blog**: An informal blog to share personal stories.
-2. **Cooking Website**: A website for sharing recipes, cooking tips, and food-related content. The tone will be welcoming and fun, with vibrant images of dishes and detailed instructions.
-3. **Portfolio Website**: A professional website to showcase my projects and skills.
-
-You can see more details and the images I’ve chosen in my `index.html` file.
-
+One of the main challenges was balancing the content with the images. I had to adjust the widths and spacing to ensure the text wasn’t too cramped, and the images weren’t overwhelming. Using the float and margin properties made a huge difference, but it took some trial and error to get the positioning just right.

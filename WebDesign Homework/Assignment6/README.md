@@ -1,23 +1,32 @@
-# Assignment 6: Cooking Website
+# Assignment 5: GitHub Setup and Website Ideas
 
-## Idea Explanation
-I've chosen to develop the cooking website idea because cooking is a passion of mine, and I want to share recipes and cooking tips with others. The site will have a modern and playful tone, making it approachable for beginners and fun for experienced cooks.
+In this assignment, I set up my GitHub repository and began brainstorming website ideas for future projects. I also completed a markdown exercise in which I filled in blanks about the tools and services we use in web development.
 
-## Reflection
-- Adjusting the background color and widths helped create a balanced and visually appealing layout.
-- Initially, I had more crowded content, but tweaking widths and margins improved the readability.
-- Experimenting with float and margin for the image was interesting, though it took a few tries to get the positioning right.
-- Challenges: Ensuring balance with CSS, especially when mixing floats and widths. I overcame this by testing different values and referencing examples.
+## Fill in the Blanks
 
-1. **Balance Adjustments:**
-   - Setting the background color to a light grey (#f9f9f9) improved readability.
-   - Using widths for the container ensured the content stayed centered and balanced.
-   - Margins around the image added whitespace, improving layout flow.
+Visual Studio Code (or Atom) is the tool we use to **create** and edit our code files and directories.
 
-2. **Initial vs. Final Design:**
-   - The original idea was simple but lacked structure. Adding headings, quotes, and semantic elements made it more engaging.
-   - Adjustments to the image’s float and size helped balance the text and visuals.
+README.md is a markdown file that uses markdown language to describe the **contents** of a repository.
 
-3. **Challenges:**
-   - It took a few tries to get the image positioned correctly with the float and margin properties.
-   - Experimenting with the width of the container helped me avoid overcrowded content.
+HTML files are used to create webpages for the web, with the main homepage file always named **index**.html.
+
+GitHub Desktop helps us organize files on our computers and **push** them to GitHub.com.
+
+GitHub.com is used to **host** our project files.
+
+GitHub Pages **hosts** our websites, and in order to view a specific page, we need to include the entire file path to the URL, including all subdirectories.
+
+Canvas is our virtual **classroom** where we can access the weekly content, discussions, assignments, and quizzes.
+
+The external course website functions as our **textbook**.
+
+## My Website Ideas
+
+In this assignment, I brainstormed three website ideas:
+
+1. **Personal Blog**: An informal blog to share personal stories.
+2. **Cooking Website**: A website for sharing recipes, cooking tips, and food-related content. The tone will be welcoming and fun, with vibrant images of dishes and detailed instructions.
+3. **Portfolio Website**: A professional website to showcase my projects and skills.
+
+You can see more details and the images I’ve chosen in my `index.html` file.
+

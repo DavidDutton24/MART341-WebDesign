@@ -3,57 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="WebDesign Homework - Assignment 5">
-    <title>WebDesign Homework - Assignment 5</title>
-    <link rel="stylesheet" href="../../styles.css">
+    <meta name="description" content="Assignment 5 - Website Ideas and Brainstorming">
+    <title>Assignment 5 - Website Ideas</title>
 </head>
 <body>
     <header>
-        <h1>WebDesign Homework - Assignment 5</h1>
-        <p>This assignment focused on creating forms and inputs, which are essential for user interaction in web development.</p>
+        <h1>Website Ideas for My Future Projects</h1>
+        <p>This page contains three website ideas that I am brainstorming for future web development projects.</p>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="../../index.html">Home</a></li>
-            <li><a href="../Assignment4/index.html">Assignment 4</a></li>
-            <li><a href="../Assignment6/index.html">Assignment 6</a></li>
-            <li><a href="../Assignment7/index.html">Assignment 7</a></li>
-            <li><a href="../Assignment8/index.html">Assignment 8</a></li>
-            <li><a href="../Assignment9/index.html">Assignment 9</a></li>
-            <li><a href="../Assignment10/index.html">Assignment 10</a></li>
-            <li><a href="../Final%20Project/index.html">Final Project</a></li>
-        </ul>
-    </nav>
+    <section>
+        <h2>Personal Blog</h2>
+        <p>My first idea is to create a personal blog where I can share my thoughts, ideas, and experiences. The tone would be informal and conversational, inviting readers to engage with my personal stories. I envision a clean and simple design, with a focus on content and readability.</p>
+        <img src="https://example.com/personal-blog.jpg" alt="Personal Blog Image">
+        <hr>
+    </section>
 
-    <main>
-        <section class="assignment-details">
-            <h2>Assignment Overview</h2>
-            <p>This assignment was about creating forms with different input types like text fields, checkboxes, and buttons to collect data from users.</p>
+    <section>
+        <h2>Portfolio Website</h2>
+        <p>Another idea is to build a portfolio website to showcase my web development projects. The tone here would be professional and polished, highlighting my skills and past work. The website would include a gallery of projects, a bio, and contact information for potential employers or clients.</p>
+        <img src="https://example.com/portfolio.jpg" alt="Portfolio Website Image">
+        <hr>
+    </section>
 
-            <h3>What I Learned</h3>
-            <p>I learned how to create and style forms in HTML, how to validate input data using JavaScript, and how to handle form submissions.</p>
-
-            <h3>Code</h3>
-            <p>You can view the source code for this assignment by visiting the following link:</p>
-            <ul>
-                <li><a href="https://github.com/DavidDutton24/MART341-WebDesign/blob/main/WebDesign%20Homework/Assignment5">View Source Code on GitHub</a></li>
-            </ul>
-
-            <h3>Live Demo</h3>
-            <p>Check out the live demo of this assignment:</p>
-            <ul>
-                <li><a href="https://daviddutton24.github.io/MART341-WebDesign/WebDesign%20Homework/Assignment5">Live Demo</a></li>
-            </ul>
-
-            <h3>Images</h3>
-            <p>Here are some screenshots from the assignment:</p>
-            <img src="image1.jpg" alt="Screenshot 1 of Assignment 5">
-        </section>
-    </main>
+    <section>
+        <h2>Travel Journal</h2>
+        <p>Finally, I am considering creating a travel journal website to document my adventures. The tone would be adventurous and inspiring, with vibrant colors and engaging content. The site would include photos, travel tips, and personal reflections from my trips around the world.</p>
+        <img src="https://example.com/travel-journal.jpg" alt="Travel Journal Image">
+        <hr>
+    </section>
 
     <footer>
-        <p>&copy; 2024 David Dutton | <a href="../../privacy.html">Privacy Policy</a></p>
+        <p>&copy; 2024 Assignment 5 - Website Ideas</p>
+        <a href="about.html">Learn more about why I chose these ideas</a>
     </footer>
 </body>
 </html>

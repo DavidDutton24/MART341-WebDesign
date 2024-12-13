@@ -1,43 +1,23 @@
-# MART 341: Web Design Homework Repository
+# MART341 Web Design Homework Repository
 
-Welcome to my homework repository for MART 341: Web Design. This repository contains assignments completed throughout the course, focusing on various web design principles such as HTML, CSS, responsive design, JavaScript, and more. Each assignment is a step toward creating well-designed, user-friendly websites.
-
-## About This Repository
-
-This repository includes all the assignments from the course. Each one demonstrates skills and concepts learned during lectures and practical work. These projects cover a wide range of web development topics, from styling elements to building interactive web applications.
+Welcome to my **Web Design** homework repository! This repository contains all the assignments completed for the **MART341 Web Design** course. Below you'll find links to each assignment:
 
 ## Assignments
 
-Here are links to each of my assignments:
-
-- [WebDesign Homework/Assignment 2: Styling with CSS](WebDesign%20Homework/Assignment2)
-- [WebDesign Homework/Assignment 3: Responsive Design](WebDesign%20Homework/Assignment3)
-- [WebDesign Homework/Assignment 4: JavaScript Basics](WebDesign%20Homework/Assignment4)
-- [WebDesign Homework/Assignment 5: Forms and Inputs](WebDesign%20Homework/Assignment5)
-- [WebDesign Homework/Assignment 6: Advanced CSS Techniques](WebDesign%20Homework/Assignment6)
-- [WebDesign Homework/Assignment 7: Working with APIs](WebDesign%20Homework/Assignment7)
-- [WebDesign Homework/Assignment 8: DOM Manipulation](WebDesign%20Homework/Assignment8)
-- [WebDesign Homework/Assignment 9: Creating Interactive Features](WebDesign%20Homework/Assignment9)
-- [WebDesign Homework/Assignment 10: Website Optimization](<a href="https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment10">Assignment 10: Website Optimization</a>)
-
-Each assignment has its own directory with the files required for completion. You can explore the specific challenges and solutions from each project.
+1. [Assignment 1: Introduction to HTML](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment1)
+2. [Assignment 2: Styling with CSS](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment2)
+3. [Assignment 3: Responsive Design](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment3)
+4. [Assignment 4: JavaScript Basics](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment4)
+5. [Assignment 5: Forms and Inputs](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment5)
+6. [Assignment 6: Advanced CSS Techniques](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment6)
+7. [Assignment 7: Working with APIs](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment7)
+8. [Assignment 8: DOM Manipulation](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment8)
+9. [Assignment 9: Creating Interactive Features](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment9)
+10. [Assignment 10: Website Optimization](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment10)
 
 ## Final Project
 
-- [WebDesign Homework/Final Project](MART341-WebDesign/tree/main/WebDesign%20Homework/Final%20Project)
-The final project combines all the knowledge and skills learned in the course to create a fully functional web application. 
+- [Final Project: Full Web Design Project](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Final%20Project)
 
-## Contact
-
-If you have any questions or would like to discuss my work, feel free to reach out to me on GitHub.
-
-[View Repository on GitHub](https://github.com/DavidDutton24/MART341-WebDesign)
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgements
-
-Thanks to my professor and classmates for their insights and support throughout the course. This repository showcases my journey of learning and applying web design principles in real-world projects.
+Feel free to explore the assignments and see the work I have done for each topic.
 

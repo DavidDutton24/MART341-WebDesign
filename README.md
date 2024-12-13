@@ -1,38 +1,44 @@
-# MART 341 Web Design Homework Repository
+# MART 341: Web Design Homework Repository
 
-Welcome to my repository for MART 341: Web Design. This repository contains all the assignments and projects I completed as part of the course. You can explore my work, which covers various aspects of web development such as HTML, CSS, JavaScript, and more.
+Welcome to my homework repository for MART 341: Web Design. This repository contains assignments completed throughout the course, focusing on various web design principles such as HTML, CSS, responsive design, JavaScript, and more. Each assignment is a step toward creating well-designed, user-friendly websites.
 
 ## About This Repository
 
-This repository includes individual assignments that progressively build on concepts of web design and development. Each assignment explores different topics like styling with CSS, working with APIs, JavaScript basics, and building responsive websites.
+This repository includes all the assignments from the course. Each one demonstrates skills and concepts learned during lectures and practical work. These projects cover a wide range of web development topics, from styling elements to building interactive web applications.
 
 ## Assignments
 
-Below are links to each of my assignments:
+Here are links to each of my assignments, from assignment 2 through assignment 10:
 
-- [Assignment 2: Styling with CSS](assignments/assignment2/)
-- [Assignment 3: Responsive Design](assignments/assignment3/)
-- [Assignment 4: JavaScript Basics](assignments/assignment4/)
-- [Assignment 5: Forms and Inputs](assignments/assignment5/)
-- [Assignment 6: Advanced CSS Techniques](assignments/assignment6/)
-- [Assignment 7: Working with APIs](assignments/assignment7/)
-- [Assignment 8: DOM Manipulation](assignments/assignment8/)
-- [Assignment 9: Creating Interactive Features](assignments/assignment9/)
-- [Assignment 10: Website Optimization](assignments/assignment10/)
-- [Final Project: Comprehensive Web Application](assignments/final_project/)
+- [WebDesign Homework/Assignment2: Styling with CSS](WebDesign Homework/Assignment2)
+- [WebDesign Homework/Assignment3: Responsive Design](WebDesign Homework/Assignment3/)
+- [WebDesign Homework/Assignment4: JavaScript Basics](WebDesign Homework/Assignment4/)
+- [WebDesign Homework/Assignment5: Forms and Inputs](WebDesign Homework/Assignment5/)
+- [WebDesign Homework/Assignment6: Advanced CSS Techniques](WebDesign Homework/Assignment6/)
+- [WebDesign Homework/Assignment7: Working with APIs](WebDesign Homework/Assignment7/)
+- [WebDesign Homework/Assignment8: DOM Manipulation](WebDesign Homework/Assignment8/)
+- [WebDesign Homework/Assignment9: Creating Interactive Features](WebDesign Homework/Assignment9/)
+- [WebDesign Homework/Assignment10: Website Optimization](WebDesign Homework/Assignment10/)
+- [WebDesign Homework/FianlProject: Website Optimization](WebDesign Homework/FinalProject/)
+Each assignment has its own directory with the files required for completion. You can explore the specific challenges and solutions from each project.
+
+## Final Project
+
+- [Final Project: Comprehensive Web Application](assignments/final_project/)  
+The final project combines all the knowledge and skills learned in the course to create a fully functional web application. 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out via GitHub. You can also view the repository live on GitHub Pages.
+If you have any questions or would like to discuss my work, feel free to reach out to me on GitHub.
 
 [View Repository on GitHub](https://github.com/DavidDutton24/MART341-WebDesign)
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Acknowledgements
 
-Special thanks to my professor and peers for their feedback and support throughout this course. This repository reflects my journey in mastering web design techniques and practices.
+Thanks to my professor and classmates for their insights and support throughout the course. This repository showcases my journey of learning and applying web design principles in real-world projects.
 
 

@@ -1,0 +1,58 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* FAQ container */
+#faq-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* FAQ section */
+.faq-section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 20px;
+    opacity: 0.95;
+    transition: opacity 0.3s ease;
+}
+
+.faq-section:hover {
+    opacity: 1;
+}
+
+.faq-question {
+    color: #4CAF50;
+    text-align: left;
+}
+
+/* Styling for links in footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+}

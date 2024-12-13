@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Upcoming cooking events and a form to get in touch.">
+    <title>Event Schedule - Cooking Website</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .table-container {
+            margin-top: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .form-container {
+            margin-top: 40px;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .form-container input, .form-container textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .form-container button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Upcoming Cooking Events</h1>
+            <p>Stay updated with the latest cooking classes, festivals, and demonstrations.</p>
+        </header>
+
+        <section class="table-container">
+            <h2>Event Schedule</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Event</th>
+                        <th>Date</th>
+                        <th>Location</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Cooking with Spices</td>
+                        <td>March 15, 2024</td>
+                        <td>Downtown Cooking School</td>
+                    </tr>
+                    <tr>
+                        <td>Food Festival</td>
+                        <td>April 5, 2024</td>
+                        <td>City Park</td>
+                    </tr>
+                    <tr>
+                        <td>Live Cooking Show</td>
+                        <td>May 20, 2024</td>
+                        <td>Foodie Studio</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="form-container">
+            <h2>Contact Us</h2>
+            <form action="mailto:brittany.westlund@umconnect.umt.edu?subject=Event%20Inquiry" method="post" enctype="text/plain">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit">Send Inquiry</button>
+            </form>
+        </section>
+
+        <footer>
+            <p><a href="index.html">Home</a> | <a href="activities.html">Event Schedule</a></p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -4,9 +4,9 @@ Welcome to my **Web Design** homework repository! This repository contains all t
 
 ## Assignments
 
-1. [Assignment 1: Introduction to HTML](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment2)
-2. [Assignment 2: Styling with CSS](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment2)
-3. [Assignment 3: Responsive Design](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment3)
+1. [Assignment 2](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment2)
+2. [Assignment 3: Styling with CSS](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment3)
+3.  [Assignment 3: Responsive Design](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment3)
 4. [Assignment 4: JavaScript Basics](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment4)
 5. [Assignment 5: Forms and Inputs](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment5)
 6. [Assignment 6: Advanced CSS Techniques](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment6)

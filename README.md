@@ -24,7 +24,7 @@ Each assignment has its own directory with the files required for completion. Yo
 
 ## Final Project
 
-- [WebDesign Homework/Final Project](WebDesign%20Homework/Final%20Project)  
+- [WebDesign Homework/Final Project](MART341-WebDesign/tree/main/WebDesign%20Homework/Final%20Project)
 The final project combines all the knowledge and skills learned in the course to create a fully functional web application. 
 
 ## Contact

@@ -1,17 +1,15 @@
-# Assignment 7: Cooking Website
+# Assignment 7: Website Development - Event Schedule
 
-## Project Overview
-This week, I continued developing my cooking website. I added a second page that includes both a table to compare recipes and a form to collect feedback or suggestions from visitors. Simple CSS was used to enhance the design and maintain accessibility with alt text and titles for images.
-## Reflection
+## Chosen Website Idea
 
-1. **Most Proud Of:**  
-   - The recipe comparison table turned out great! Adding images with descriptive alt text and titles really made the page visually engaging.
-   - The form is simple but functional, and the mailto feature makes it easy for users to send suggestions.
+For this assignment, I have chosen to develop an **Event Schedule** page for my cooking website. This page will feature a list of upcoming cooking events, such as cooking classes, food festivals, or live cooking demonstrations. The tone will remain fun and engaging, with easy navigation and visually appealing design elements.
 
-2. **Challenges and Solutions:**  
-   - Positioning the table and form together on one page was tricky. Adjusting the container width and spacing resolved the issue.
-   - Ensuring images had appropriate alt text for accessibility required thoughtful descriptions.
+## Reflection on Enhancements
 
-3. **CSS Enhancements:**  
-   - The background color and table styling added warmth and balance to the page.
-   - Float and padding were used sparingly to align elements without cluttering the layout.
+This week, I’ve enhanced my website by adding a table to display event schedules and a form for users to submit inquiries. The table allows me to organize and showcase upcoming events clearly, while the form facilitates communication with the visitors.
+
+I used simple CSS to improve the page’s appearance by adding background colors and adjusting image sizes. I also experimented with padding to improve spacing and layout.
+
+### Challenges Encountered
+
+The most challenging part of this week’s assignment was styling the form and table to be visually appealing. Ensuring the form fields were aligned correctly and the table rows were evenly spaced required a lot of trial and error. I overcame this by using inline CSS for fine-tuned control over spacing and positioning.

@@ -8,22 +8,23 @@ This repository includes all the assignments from the course. Each one demonstra
 
 ## Assignments
 
-Here are links to each of my assignments, from assignment 2 through assignment 10:
+Here are links to each of my assignments:
 
-- [WebDesign Homework/Assignment 2](WebDesign%20Homework/Assignment2)
-- [WebDesign Homework/Assignment 3](WebDesign%20Homework/Assignment3)
-- [WebDesign Homework/Assignment 4](WebDesign%20Homework/Assignment4)
-- [WebDesign Homework/Assignment 5](WebDesign%20Homework/Assignment5)
-- [WebDesign Homework/Assignment 6](WebDesign%20Homework/Assignment6)
-- [WebDesign Homework/Assignment 7](WebDesign%20Homework/Assignment7)
-- [WebDesign Homework/Assignment 8](WebDesign%20Homework/Assignment8)
-- [WebDesign Homework/Assignment 9](WebDesign%20Homework/Assignment9)
-- [WebDesign Homework/Assignment 10](WebDesign%20Homework/Assignment10)
+- [WebDesign Homework/Assignment 2: Styling with CSS](WebDesign%20Homework/Assignment2)
+- [WebDesign Homework/Assignment 3: Responsive Design](WebDesign%20Homework/Assignment3)
+- [WebDesign Homework/Assignment 4: JavaScript Basics](WebDesign%20Homework/Assignment4)
+- [WebDesign Homework/Assignment 5: Forms and Inputs](WebDesign%20Homework/Assignment5)
+- [WebDesign Homework/Assignment 6: Advanced CSS Techniques](WebDesign%20Homework/Assignment6)
+- [WebDesign Homework/Assignment 7: Working with APIs](WebDesign%20Homework/Assignment7)
+- [WebDesign Homework/Assignment 8: DOM Manipulation](WebDesign%20Homework/Assignment8)
+- [WebDesign Homework/Assignment 9: Creating Interactive Features](WebDesign%20Homework/Assignment9)
+- [WebDesign Homework/Assignment 10: Website Optimization](WebDesign%20Homework/Assignment10)
 
 Each assignment has its own directory with the files required for completion. You can explore the specific challenges and solutions from each project.
 
 ## Final Project
-[WebDesign Homework/Final Project](WebDesign%20Homework/Final%20Project)  - 
+
+- [WebDesign Homework/Final Project](WebDesign%20Homework/Final%20Project)  
 The final project combines all the knowledge and skills learned in the course to create a fully functional web application. 
 
 ## Contact
@@ -39,5 +40,4 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 ## Acknowledgements
 
 Thanks to my professor and classmates for their insights and support throughout the course. This repository showcases my journey of learning and applying web design principles in real-world projects.
-
 

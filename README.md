@@ -10,7 +10,7 @@ This repository includes all the assignments from the course. Each one demonstra
 
 Here are links to each of my assignments, from assignment 2 through assignment 10:
 
-- [WebDesign Homework/Assignment 2: Styling with CSS](DavidDutton24/MART341-WebDesign/WebDesign Homework/Assignment2)
+- [WebDesign Homework/Assignment 2: Styling with CSS](MART341-WebDesign/WebDesign Homework/Assignment2)
 - [WebDesign Homework/Assignment 3: Responsive Design](DavidDutton24/MART341-WebDesign/WebDesign Homework/Assignment3/)
 - [WebDesign Homework/Assignment 4: JavaScript Basics](DavidDutton24/MART341-WebDesign/WebDesign Homework/Assignment4/)
 - [WebDesign Homework/Assignment 5: Forms and Inputs](DavidDutton24/MART341-WebDesign/WebDesign Homework/Assignment5/)

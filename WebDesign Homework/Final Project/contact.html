@@ -1,28 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact | Final Project</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get in touch with the Healthy Cooking team for questions, feedback, or collaboration opportunities.">
+    <title>Contact Us - Healthy Cooking</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header>
+    <header>
+        <img src="images/banner.jpg" alt="Healthy Cooking Banner" class="banner">
+        <h1>Contact Us</h1>
+    </header>
     <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipes.html">Recipes</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
-  </header>
-  <main>
-    <h1>Contact Us</h1>
-    <p>Feel free to get in touch using the details below.</p>
-    <iframe src="https://www.google.com/maps/embed?pb=" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-  </main>
-  <footer>
-    <p>&copy; 2024 Final Project. All rights reserved.</p>
-  </footer>
+    <main>
+        <section class="contact">
+            <h2>We'd Love to Hear from You!</h2>
+            <p>If you have any questions, feedback, or collaboration ideas, feel free to reach out using the form below.</p>
+            <form action="submit_form.php" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit" class="button">Submit</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Healthy Cooking | <a href="privacy.html">Privacy Policy</a></p>
+    </footer>
 </body>
 </html>

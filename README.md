@@ -20,7 +20,7 @@ Welcome to my **Homework Repository**! This is a collection of my assignments, p
 <section id="assignments">
     <h2>Assignments</h2>
     <ul>
-        <li><a href="/MART341-WebDesign/WebDesignHomework/Assignment2/" target="_blank">Assignment 2</a></li>
+        <li><a href="WebDesign Homework/Assignment2/" target="_blank">Assignment 2</a></li>
         <li><a href="assignments/assignment3/" target="_blank">Assignment 3</a></li>
         <li><a href="assignments/assignment4/" target="_blank">Assignment 4</a></li>
         <li><a href="assignments/assignment5/" target="_blank">Assignment 5</a></li>

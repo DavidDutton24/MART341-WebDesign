@@ -1,48 +1,48 @@
 # Web Design Homework Repository
 
-This repository contains all of my assignments for the Web Design course. Below you will find links to each assignment, including the respective page and any relevant project files for each.
+This repository contains all of my assignments for the Web Design course. Below are links to each assignment and the final project, including the respective pages and related project files for each.
 
 ## Assignments:
 
-### [Assignment 2](./Assignment2)
-- **Description**: Initial setup for the course, introduction to HTML, and basic structure of the homepage.
-- **Files**: Includes `index.html`, `style.css`, and any related resources.
+### [Assignment 2](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment2)
+- **Description**: Implemented navigation and a more complex layout using HTML and CSS.
+- **Files**: Updated `index.html` with improved layout and navigation features.
 
-### [Assignment 3](./Assignment3)
-- **Description**: Implemented navigation, more complex layout using HTML and CSS.
-- **Files**: Includes additional pages and updated `index.html`.
+### [Assignment 3](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment3)
+- **Description**: Focused on more advanced HTML elements and styling techniques to refine the page's structure.
+- **Files**: Enhanced structure with lists, forms, and CSS styling.
 
-### [Assignment 4](./Assignment4)
-- **Description**: Introduced more advanced HTML elements and CSS styles for better layout control.
-- **Files**: Updated pages and style adjustments.
+### [Assignment 4](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment4)
+- **Description**: Concentrated on accessibility with semantic HTML and adding alternative text to images.
+- **Files**: Pages with proper semantic markup and optimized images.
 
-### [Assignment 5](./Assignment5)
-- **Description**: Focused on accessibility, ensuring semantic HTML and alternative text for images.
-- **Files**: `index.html`, optimized images, and proper semantic markup.
+### [Assignment 5](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment5)
+- **Description**: Introduced interactivity through forms and simple JavaScript.
+- **Files**: Form pages and JavaScript for form handling and validation.
 
-### [Assignment 6](./Assignment6)
-- **Description**: Began integrating interactive elements such as forms and simple JavaScript.
-- **Files**: Form page and JavaScript files to handle form submissions.
+### [Assignment 6](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment6)
+- **Description**: Created complex forms and tables for data presentation and submission.
+- **Files**: Pages containing forms, tables, and data organization features.
 
-### [Assignment 7](./Assignment7)
-- **Description**: Focused on creating complex forms and tables for various data organization tasks.
-- **Files**: Form submission page, data display table.
+### [Assignment 7](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment7)
+- **Description**: Designed a second page that features a combination of tables and forms for more detailed user input.
+- **Files**: Additional resources like images and navigation between pages.
 
-### [Assignment 8](./Assignment8)
-- **Description**: Added a second page with tables and forms, enhancing functionality.
-- **Files**: Included additional resources like images and links.
+### [Assignment 8](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment8)
+- **Description**: Integrated media (audio/video) elements and embedded external content (iframe) into the site.
+- **Files**: A gallery page showcasing embedded content like videos and audio.
 
-### [Assignment 9](./Assignment9)
-- **Description**: Introduced media (audio, video) and external content embedding (iframe).
-- **Files**: A gallery page with embedded video/audio and external content.
+### [Assignment 9](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment9)
+- **Description**: Built a multi-page site with an instructable (how-to guide) along with additional resource pages.
+- **Files**: Pages such as `faq.html`, `about.html`, and `contact.html`.
 
-### [Assignment 10](./Assignment10)
-- **Description**: Created a multi-page site with an instructional guide (instructable) along with a resources page.
-- **Files**: `faq.html`, `about.html`, and `contact.html`.
+### [Assignment 10](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Assignment10)
+- **Description**: Used an external CSS file to implement advanced styling techniques, including positioning, borders, and various design elements.
+- **Files**: `faq.html` and `style.css` for external styles.
 
-### [Assignment 10](./Assignment10)
-- **Description**: Designed pages using external CSS with various techniques for positioning, borders, and styling.
-- **Files**: `faq.html`, `style.css` for external styles.
+### [Final Project](https://github.com/DavidDutton24/MART341-WebDesign/tree/main/WebDesign%20Homework/Final%20Project)
+- **Description**: Final project to demonstrate all learned skills, including complex page layouts, interactivity, and optimized media.
+- **Files**: A collection of pages showcasing full design, coding, and interactive features for the project.
 
 ---
 

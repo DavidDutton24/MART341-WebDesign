@@ -24,34 +24,12 @@ The **Healthy Cooking** website offers:
 
 - **Responsive Design**: The website adapts to different screen sizes, making it easy to use on both mobile and desktop devices.
 - **Interactive Recipe List**: Users can browse and view detailed recipes, with images and descriptions.
-- **Contact Form**: Users can submit inquiries through a simple,
+- **Contact Form**: Users can submit inquiries through a simple, user-friendly form.
 
-**index.html**
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home | Final Project</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <h1>Welcome to My Website</h1>
-    <p>This is the homepage of my Final Project.</p>
-  </main>
-  <footer>
-    <p>&copy; 2024 Final Project. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+## Installation
+
+To install and run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DavidDutton24/MART341-WebDesign.git

@@ -4,7 +4,7 @@ This repository contains all my assignments for the Web Design course. Below are
 
 ## Assignments:
 
-### [Assignment 2](https://daviddutton24.github.io/MART341-WebDesign/WebDesign%20Homework/Assignment2/index.html)- 
+### [Assignment 2](https://daviddutton24.github.io/MART341-WebDesign/WebDesign%20Homework/Assignment2/README.md)- 
 **Description**: Implemented navigation and a more complex layout using HTML and CSS.
 
 ### [Assignment 3](https://daviddutton24.github.io/MART341-WebDesign/WebDesign%20Homework/Assignment3/index.html)
